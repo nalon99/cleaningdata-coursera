@@ -1,6 +1,6 @@
 Description of the variables used in the run_analysis.R
 
-According to the README.txt in the UCI HAR Dataset folder variables:
+According to the README.txt in the "UCI HAR Dataset" folder variables:
   - activities is the data frame containing activity_labels.txt
   - features is the data frame containing features.txt
   
